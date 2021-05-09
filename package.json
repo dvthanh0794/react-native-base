@@ -39,6 +39,7 @@
     "react-native-vector-icons": "^8.1.0",
     "react-native-web": "~0.13.12",
     "react-redux": "^7.2.4",
+    "react-router-native": "^5.2.0",
     "styled-components": "^5.2.1"
   },
   "devDependencies": {
@@ -46,6 +47,7 @@
     "@types/react": "~16.9.35",
     "@types/react-native": "~0.63.2",
     "@types/react-redux": "^7.1.16",
+    "@types/react-router-native": "^5.1.0",
     "@types/styled-components": "^5.1.9",
     "@typescript-eslint/eslint-plugin": "^4.18.0",
     "@typescript-eslint/parser": "^4.18.0",

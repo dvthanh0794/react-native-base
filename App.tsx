@@ -7,6 +7,7 @@ import store from './src/app/store'
 import { Provider } from 'react-redux'
 
 import HomeScreen from './src/screens/HomeScreen'
+import Main from './src/screens/Main'
 
 export default function App() {
   return (
@@ -14,7 +15,7 @@ export default function App() {
       <Provider store={store}>
         <ThemeProvider>
           <NavigationContainer>
-            <HomeScreen />
+            <Main />
             <StatusBar />
           </NavigationContainer>
         </ThemeProvider>
